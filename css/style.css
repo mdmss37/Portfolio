@@ -1,0 +1,62 @@
+body {
+    font-family: 'Lato', sans-serif;
+    color: #747704;
+    font-weight: 300;
+}
+
+.text-muted {
+    color: #BCBBBB;
+    margin-bottom: 5px
+}
+
+.text-thin {
+    font-weight: 100;
+}
+
+.title-super {
+    font-size: 60px;
+    margin-top: 0;
+}
+
+.title-sub {
+    margin-top: 0;
+}
+
+.lead {
+    border-bottom: 1px solid #BCBBBB;
+    margin-top: 65px;
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+}
+
+.featured-work {
+    margin-bottom: 5px;
+}
+
+.project-description {
+    margin-top: 10px;
+    color: #BCBBBB;
+}
+
+.navbar {
+    margin: 0 20px;
+}
+
+.modal-title {
+    color: #BCBBBB;
+}
+
+.footer {
+    border-top: 1px solid #BCBBBB;
+    margin: 0px 0 50px 0;
+    padding-top: 30px;
+}
+
+.pull-right {
+  float: right !important;
+}
+@media (max-width: 768px) {
+    .title-super {
+        font-size: 50px;
+    }
+}
